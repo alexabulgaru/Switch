@@ -1,7 +1,3 @@
-1 2 3
-
-# Tema 1 - Alexandra Bulgaru 331CD
-
 ### 1. Procesul de comutare:
 - Gestioneaza primirea, analiza si transmiterea cadrelor Ethernet prin retea. Cand un cadru este primit pe o interfata, `parse_ethernet_header` extrage informatiile despre adresele MAC de destinatie si sursa, tipul Ethernet si ID-ul VLAN-ului.
 - Tabela MAC este actualizata cu adresa MAC sursa si interfata de unde a fost primit cadrul.
